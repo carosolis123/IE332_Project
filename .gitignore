@@ -10,3 +10,4 @@
 #Development file for making local changes to Arduino libraries
 #Ignore in all directories
 .development
+.Rproj.user
